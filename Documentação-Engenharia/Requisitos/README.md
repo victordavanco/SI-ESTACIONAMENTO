@@ -1,1 +1,1 @@
-# Coloque nesta pasta, somente documentos sobre o levantamento e analise de requisitos
+# Coloque nesta pasta, somente documentos sobre o levantamento e analise de requisitos.
